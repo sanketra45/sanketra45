@@ -1,4 +1,4 @@
-# 💫 Sanket Rathod:
+# 💫 Sanket Rathod
 💻 Computer Science Undergraduate passionate about Software Development<br><br>☕ Java & Spring Boot Developer<br><br>🚀 Building Backend Systems and Full-Stack Applications<br><br>🧠 Strong interest in Data Structures, Algorithms, and Problem Solving<br><br>🤝 Open to Internship, Open Source, and Collaboration Opportunities<br><br>⚡ Always learning, building, and improving
 
 
